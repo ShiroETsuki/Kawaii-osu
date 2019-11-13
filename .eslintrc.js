@@ -1,3 +1,4 @@
+//syntax error locator <https://eslint.org/>
 module.exports = {
     "env": {
         "es6": true,
