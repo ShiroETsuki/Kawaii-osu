@@ -1,0 +1,31 @@
+{
+  "name": "",
+  "description": "",
+  "version": "0.0.1",
+  "author": "",
+  "scripts": {
+    "start": "node --use_strict app.js"
+  },
+  "contributors": [],
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=9.0.0"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "The MIT License",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-plugin-react": "^7.12.4"
+  }
+}
